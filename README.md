@@ -1,2 +1,2 @@
-# tecnologia-1-template
+# Estas son las instrucciones de la práctica
 Tecnologia 1
